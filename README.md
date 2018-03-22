@@ -6,4 +6,15 @@ In the financial sector, it is normal for TV pundits, article authors and blogge
 
 ## Data
 
-Jeff and/or [Bloq Labs](https://bloq.com/bloq-labs.html) hold a notable (>$10,000) position, or have a commercial deal associated with:  BTC, CVC, DRGN, GNX, MET, QTUM, VeriBlock, UBTC.
+Jeff and/or [Bloq Labs](https://bloq.com/bloq-labs.html) hold a notable (>$10,000) position, or have a commercial deal associated with:
+
+* Bitcoin BTC
+* Civic CVC
+* DragonChain DRGN
+* Genaro GNX
+* Metronome MET
+* Quantum QTUM
+* SpaceChain Foundation SPC
+* VeriBlock
+* UBTC
+
