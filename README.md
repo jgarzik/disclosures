@@ -12,9 +12,10 @@ Jeff and/or [Bloq Labs](https://bloq.com/bloq-labs.html) hold a notable (>$10,00
 * Civic CVC
 * DragonChain DRGN
 * Genaro GNX
-* Metronome MET
+* [Metronome](https://metronome.io) MET
 * Quantum QTUM
-* SpaceChain Foundation SPC
+* Reality Shares Nasdaq NexGen Economy ETF ([BLCN](https://finance.yahoo.com/quote/BLCN?p=BLCN))
+* [SpaceChain Foundation](https://spacechain.com) SPC
 * VeriBlock
 * UBTC
 
