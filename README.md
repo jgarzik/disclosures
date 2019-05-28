@@ -23,6 +23,6 @@ deal associated with:
 * [Qtum Project](https://qtum.org/en/) QTUM
 * Reality Shares Nasdaq NexGen Economy ETF ([BLCN](https://finance.yahoo.com/quote/BLCN?p=BLCN))
 * [SpaceChain Foundation](https://spacechain.com) SPC
-* [VeriBlock](https://www.veriblock.org) ***
+* [VeriBlock](https://www.veriblock.org) VBK
 * [United Bitcoin](https://ub.com) UBTC
 
