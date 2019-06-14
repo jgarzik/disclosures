@@ -15,6 +15,7 @@ Jeff and/or [Bloq Labs](https://bloq.com/bloq-labs.html) hold a notable
 deal associated with:
 
 * Bitcoin BTC
+* Binance BNB
 * [Civic](https://tokensale.civic.com) CVC
 * [DragonChain](https://dragonchain.com) DRGN
 * [Genaro](https://genaro.network/en) GNX
