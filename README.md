@@ -21,6 +21,7 @@ deal associated with:
 * [Genaro](https://genaro.network/en) GNX
 * [Metronome](https://metronome.io) MET
 * [Nexus Earth](https://nexusearth.com) NXS
+* [Orchid Networks](https://www.orchid.com/) OXT
 * [Qtum Project](https://qtum.org/en/) QTUM
 * Reality Shares Nasdaq NexGen Economy ETF ([BLCN](https://finance.yahoo.com/quote/BLCN?p=BLCN))
 * [SpaceChain Foundation](https://spacechain.com) SPC
