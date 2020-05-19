@@ -17,6 +17,7 @@ deal associated with:
 * Bitcoin BTC
 * Binance BNB
 * [Civic](https://tokensale.civic.com) CVC
+* [CoreSemi](https://www.coresemi.io/)
 * [DragonChain](https://dragonchain.com) DRGN
 * [Genaro](https://genaro.network/en) GNX
 * [Metronome](https://metronome.io) MET
