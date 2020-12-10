@@ -19,6 +19,7 @@ deal associated with:
 * [Civic](https://tokensale.civic.com) CVC
 * [CoreSemi](https://www.coresemi.io/)
 * [DragonChain](https://dragonchain.com) DRGN
+* Ethereum ETH
 * [Genaro](https://genaro.network/en) GNX
 * [Metronome](https://metronome.io) MET
 * [Nexus Earth](https://nexusearth.com) NXS
@@ -27,7 +28,8 @@ deal associated with:
 * Reality Shares Nasdaq NexGen Economy ETF ([BLCN](https://finance.yahoo.com/quote/BLCN?p=BLCN))
 * [SpaceChain Foundation](https://spacechain.com) SPC
 * Tesla TSLA
-* [Titan](https://www.titan.io/) ---
+* [Titan Mining](https://www.titan.io/) ---
 * [VeriBlock](https://www.veriblock.org) VBK
+* [Vesper Finance](https://vesper.finance) VSP
 * [United Bitcoin](https://ub.com) UBTC
 
