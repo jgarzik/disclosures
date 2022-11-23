@@ -10,7 +10,7 @@ the community and increase total community transparency.
 
 ## Data
 
-Jeff and/or [Bloq Labs](https://bloq.com/bloq-labs.html) hold a notable
+Jeff and/or [Bloq](https://bloq.com/) hold a notable
 (>$10,000) position, or have an advisory relationship or commercial
 deal associated with:
 
