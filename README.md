@@ -22,6 +22,7 @@ deal associated with:
 * [CoreSemi](https://www.coresemi.io/)
 * Ethereum ETH
 * [Genaro](https://genaro.network/en) GNX
+* Hemispheres HEMI
 * [Metronome](https://metronome.io) MET
 * Netki
 * [NextCypher Productions](https://nextcypher.com) and associated NFTs
